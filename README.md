@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego fernando cuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego fernando cuevas" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/diego fernando cuevas](https://www.linkedin.com/in/diego-fernando-cuevas-frontend-developer/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego fernando cuevas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ingdcuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ingdcuevas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ingdcuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ingdcuevas" height="30" width="40" /></a>
 </p>
